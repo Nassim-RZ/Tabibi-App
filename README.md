@@ -37,7 +37,6 @@ To deploy this project:
 
 
 
-
 ## Screenshots
 
 <div style="display: flex;">
@@ -49,3 +48,25 @@ To deploy this project:
   <img src="https://github.com/Nassim-RZ/Tabibi-App/blob/5d8244c67aebd733cb9958228391d3d68b52683b/mobile/mobile/ScreenShot/6.png" alt="Doctor">
 
 </div>
+
+
+## Contributing
+
+Contributions are always welcome!
+
+To contribute to Image Time, follow these steps:
+
+1- Fork the project.
+
+2- Create a branch for your feature (`git checkout -b amazing-feature`).
+
+3- Commit your changes (`git commit -m 'Add an amazing feature'`).
+
+4- Push to the branch (`git push origin amazing-feature`).
+
+5- Open a pull request.
+
+
+## Authors
+
+- [Belkacem (Nassim) Rezzouk](https://github.com/Nassim-RZ)
